@@ -1,1 +1,1 @@
-console.log("All connections set")
+console.log("All connections set");
